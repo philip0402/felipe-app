@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/http//philip0402.github.io/felipe-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/http//philip0402.github.io/felipe-app/static/js/main.340df82d.chunk.js",
+    "main.js.map": "/http//philip0402.github.io/felipe-app/static/js/main.340df82d.chunk.js.map",
+    "runtime-main.js": "/http//philip0402.github.io/felipe-app/static/js/runtime-main.af23d058.js",
+    "runtime-main.js.map": "/http//philip0402.github.io/felipe-app/static/js/runtime-main.af23d058.js.map",
+    "static/js/2.58b512c9.chunk.js": "/http//philip0402.github.io/felipe-app/static/js/2.58b512c9.chunk.js",
+    "static/js/2.58b512c9.chunk.js.map": "/http//philip0402.github.io/felipe-app/static/js/2.58b512c9.chunk.js.map",
+    "static/js/3.5ba62095.chunk.js": "/http//philip0402.github.io/felipe-app/static/js/3.5ba62095.chunk.js",
+    "static/js/3.5ba62095.chunk.js.map": "/http//philip0402.github.io/felipe-app/static/js/3.5ba62095.chunk.js.map",
+    "index.html": "/http//philip0402.github.io/felipe-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/http//philip0402.github.io/felipe-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.58b512c9.chunk.js.LICENSE.txt": "/http//philip0402.github.io/felipe-app/static/js/2.58b512c9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/http//philip0402.github.io/felipe-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af23d058.js",
+    "static/js/2.58b512c9.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.340df82d.chunk.js"
+  ]
+}
